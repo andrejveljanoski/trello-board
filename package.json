@@ -1,5 +1,5 @@
 {
-  "name": "jsproj",
+  "name": "trello-board",
   "version": "1.0.0",
   "description": "Trello clone for MVP Masters.",
   "main": "index.js",
